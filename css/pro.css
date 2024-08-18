@@ -6,6 +6,7 @@ box-sizing: border-box;
 
           body{
             background-color:#F6F5F2;
+            margin:0;
           }
           html{
             scroll-behavior: smooth;
